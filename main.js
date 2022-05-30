@@ -1,0 +1,2 @@
+check();
+take_snapshot();
